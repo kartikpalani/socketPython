@@ -12,4 +12,3 @@ def sendControlMsg(message):
 
 
 sendControlMsg("3")
-sendControlMsg("6")
